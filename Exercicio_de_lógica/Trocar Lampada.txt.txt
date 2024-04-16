@@ -1,0 +1,13 @@
+Verificar se a lâmpada esta queimada.
+
+Comprar lâmpada nova.
+
+Retirar a lâmpada queimada do suporte.
+
+Retirar a lâmpada nova da caixa.
+
+Colocar lâmpada nova no suporte.
+
+Conferir se a lâmpada nova acendeu.
+
+Guardar a lâmpada queimada na caixa para descarte.

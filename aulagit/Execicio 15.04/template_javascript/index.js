@@ -29,5 +29,3 @@ console.log (mensagem)
 
 // Saída de valores para Front End
 alert(mensagem)
-
-
