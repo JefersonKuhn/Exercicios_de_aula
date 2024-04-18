@@ -1,0 +1,34 @@
+ EXERCÍCIO 1
+const bool1 = true
+const bool2 = false
+const bool3 = !bool2
+                                                        RESPOSTAS
+let resultado = bool1 && bool2                                      
+console.log("false ", resultado)                          "FALSE"  
+
+resultado = bool1 && bool2 && bool3 
+console.log("false ", resultado)                          "FALSE"  
+
+resultado = !resultado && (bool1 || bool2) 
+console.log("true ", resultado)                           "TRUE"
+
+console.log("true ", typeof resultado)                    "TRUE"
+
+  EXECÍCIO 2 
+
+let primeiroNumero = prompt("Digite um numero!")
+let segundoNumero = prompt("Digite outro numero!")
+
+const soma = primeiroNumero + segundoNumero
+
+console.log(soma)
+
+RESPOSTA:
+
+let primeiroNumero = Number( prompt("Digite um numero!"))
+let segundoNumero = Number( prompt("Digite outro numero!"))
+
+const soma = primeiroNumero + segundoNumero
+
+console.log ( soma)
+alert(soma)      
